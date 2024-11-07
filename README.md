@@ -56,5 +56,6 @@ Página de Contacto
 
 Autor
 [Karina Hidalgo] - Diseño y desarrollo frontend
+
 Notas
 Este es un proyecto académico desarrollado como práctica de diseño y desarrollo frontend. No es un sitio web real y no debe usarse en producción.
